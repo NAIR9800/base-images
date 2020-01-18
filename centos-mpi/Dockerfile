@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER Shane Canon <scanon@lbl.gov>
+MAINTAINER NAIR9800 <anandhunair9800@gmail.com>
 
 RUN yum -y update 
 
