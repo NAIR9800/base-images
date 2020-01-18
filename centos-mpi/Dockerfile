@@ -1,4 +1,4 @@
-FROM centos:7
+FROM centos7
 MAINTAINER NAIR9800 <anandhunair9800@gmail.com>
 
 RUN yum -y update 
